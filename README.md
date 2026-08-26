@@ -1,3 +1,7 @@
+# This repository has been archived in favor of the new NFS Online Server repository: https://github.com/moio9/NFS-Online-Server
+
+
+
 # NFSMW Online
 
 Online/LAN server and client hook for Need for Speed: Most Wanted.
